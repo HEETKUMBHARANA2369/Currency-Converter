@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Converter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="main-container">
+            <h1 class="title">💱 CURRENCY CONVERTER</h1>
+            <p>By<a href="https://github.com/HEETKUMBHARANA2369" target="_parent"> Heet Kumbharana </a>🗿</p>
+            <div class="converter">
+                <input class="amount" type="number" placeholder="Enter Amount">
+            </div>
+            <div class="dropdowns">
+                <select id="fromCurrency" class="currencyselector"></select>
+                <span>➡️</span>
+                <select id="toCurrency" class="currencyselector"></select>
+            </div>
+            <p>NOTE: This Currency Converter uses a free api provided by <a
+                    href="https://exchangerate.host/login?u=https%3A%2F%2Fexchangerate.host%2Fdashboard"
+                    target="_blank">ExchangeRatesAPI</a> and has a limit of 100 requests per month, so use wisely</p>
+            <!-- 🆕 Result Display -->
+            <div id="result" class="result"></div>
+            <button class="convert" onclick="convert()">Convert</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
