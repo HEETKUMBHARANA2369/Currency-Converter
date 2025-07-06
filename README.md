@@ -10,8 +10,10 @@ A beautiful and responsive **Currency Converter** made with **HTML**, **CSS**, a
 
 **NETLIFY LINK**
 ->
+
 **GITHUB PAGES**
 ->
+
 ---
 
 ## 🚀 Features
@@ -29,7 +31,7 @@ A beautiful and responsive **Currency Converter** made with **HTML**, **CSS**, a
 
 - **HTML5**
 - **CSS3** (with gradients & transitions)
-- **Basic JavaScript
+- **Basic JavaScript**
 - **Exchange Rates API** (for live exchange rates)
 
 ---
