@@ -8,15 +8,10 @@ A beautiful and responsive **Currency Converter** made with **HTML**, **CSS**, a
 
 ## 🌐 Live Demo
 
-👉 [View the App on GitHub Pages](https://your-username.github.io/currency-converter/)  
-_(Update this link after deployment)_
-
----
-
-## 📸 Screenshots
-
-![Currency Converter Screenshot](https://your-screenshot-link-here)
-
+**NETLIFY LINK**
+->
+**GITHUB PAGES**
+->
 ---
 
 ## 🚀 Features
@@ -34,14 +29,14 @@ _(Update this link after deployment)_
 
 - **HTML5**
 - **CSS3** (with gradients & transitions)
-- **Vanilla JavaScript**
-- **Fixer API** (for live exchange rates)
+- **Basic JavaScript
+- **Exchange Rates API** (for live exchange rates)
 
 ---
 
 ## 🔑 API
 
-This project uses the [`fixer API`](https://apilayer.com/marketplace/fixer-api) for real-time exchange rates.  
+This project uses the Exchange Rates API for real-time exchange rates.  
 You can get your free API key by signing up on their website.
 
 > ⚠️ **Note**: If you plan to deploy this publicly, avoid exposing your API key in frontend JavaScript.
