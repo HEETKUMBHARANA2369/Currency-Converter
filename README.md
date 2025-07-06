@@ -1,6 +1,6 @@
 # 💱 Currency Converter Web App
 
-A beautiful and responsive **Currency Converter** made with **HTML**, **CSS**, and **JavaScript** that allows you to convert amounts between major world currencies using the [Fixer API](https://apilayer.com/marketplace/fixer-api).
+A beautiful and responsive **Currency Converter** made with **HTML**, **CSS**, and **JavaScript** that allows you to convert amounts between major world currencies using the [Exchane Rates API ](https://exchangerate.host/).
 
 > 🔥 Designed & developed by **Heet Kumbharana**
 
