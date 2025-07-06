@@ -9,11 +9,7 @@ A beautiful and responsive **Currency Converter** made with **HTML**, **CSS**, a
 ## 🌐 Live Demo
 
 **NETLIFY LINK**
-->
-
-**GITHUB PAGES**
-->
-
+> https://convertdacurrency.netlify.app/
 ---
 
 ## 🚀 Features
