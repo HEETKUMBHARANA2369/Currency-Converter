@@ -37,10 +37,6 @@ A beautiful and responsive **Currency Converter** made with **HTML**, **CSS**, a
 This project uses the Exchange Rates API for real-time exchange rates.  
 You can get your free API key by signing up on their website.
 
-> ⚠️ **Note**: If you plan to deploy this publicly, avoid exposing your API key in frontend JavaScript.
-
----
-
 ## 🧠 How to Use
 
 1. Clone or download the repository:
